@@ -1,0 +1,132 @@
+.produto1{
+	width: 500px;
+	height: 300px;
+	background-color: white;
+	float: left;
+	margin-top: 15px;
+	border: 1px solid #CCC;
+
+
+}
+
+.produto2{
+	width: 500px;
+	height: 300px;
+	background-color: white;
+	float: left;
+	margin-top: 15px;
+	margin-left: 110px;
+	border: 1px solid #CCC;
+}
+
+.produto3{
+	width: 500px;
+	height: 300px;
+	background-color: white;
+	float: left;
+	margin-top: 15px;
+	border: 1px solid #CCC;
+}
+
+.produto4{
+	width: 500px;
+	height: 300px;
+	background-color: white;
+	float: left;
+	margin-top: 15px;
+	margin-left: 110px;
+	border: 1px solid #CCC;
+}
+
+.produto5{
+	width: 500px;
+	height: 300px;
+	background-color: white;
+	float: left;
+	margin-top: 15px;	
+	border: 1px solid #CCC;
+}
+
+.produto6{
+	width: 500px;
+	height: 300px;
+	background-color: white;
+	float: left;
+	margin-top: 15px;
+	margin-left: 110px;	
+	border: 1px solid #CCC;
+}
+
+.produto7{
+	width: 500px;
+	height: 300px;
+	background-color: white;
+	float: left;
+	margin-top: 15px;	
+	border: 1px solid #CCC;
+}
+
+.produto8{
+	width: 500px;
+	height: 300px;
+	background-color: white;
+	float: left;
+	margin-top: 15px;
+	margin-left: 110px;		
+	border: 1px solid #CCC;
+}
+
+.produto9{
+	width: 500px;
+	height: 300px;
+	background-color: white;
+	float: left;
+	margin-top: 15px;	
+	border: 1px solid #CCC;
+}
+
+.produto10{
+	width: 500px;
+	height: 300px;
+	background-color: white;
+	float: left;
+	margin-top: 15px;
+	margin-left: 110px;		
+	border: 1px solid #CCC;
+}
+
+.icone{
+	width: 160px;
+	height: 130px;
+	float: left;
+	margin-left:10px;
+	margin-top: 50px;
+	background-color: white;
+}
+
+.descricao{
+	width: 300px;
+	height: 130px;
+	float: left;
+	margin-left: 5px;
+	margin-top: 50px;
+	background-color: white;
+	text-align: center;
+	font-size: 30px;
+}
+
+img{
+	width: 100%;
+	height: 100%;
+}
+
+.btn-primary{
+	float: right;
+	margin-top: 50px;
+	margin-right: 10px;
+}
+
+.titulo {
+	text-align: center;
+	margin: 10px;
+}

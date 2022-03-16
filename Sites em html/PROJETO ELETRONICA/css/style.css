@@ -1,0 +1,45 @@
+.cartao1{
+	float: left;
+	margin-left: 110px;
+	margin-top: 10px;
+
+}
+
+.cartao2{
+	float: left;
+	margin-left: 30px;
+	margin-top: 10px;
+
+}
+
+.cartao3{
+ 	float: left;
+	margin-left: 30px;
+	margin-top: 10px;
+
+}
+
+.cartao4{
+	float: left;
+	margin-top: 10px;
+	margin-left: 110px;
+
+}
+
+.cartao5{
+ 	float: left;
+ 	margin-top: 10px;
+	margin-left: 27px;
+}
+
+.cartao6{
+	 float: left;
+	margin-left: 28.7px;
+	margin-top: 10px;
+
+}
+
+.titulo {
+	text-align: center;
+	margin: 10px;
+}
